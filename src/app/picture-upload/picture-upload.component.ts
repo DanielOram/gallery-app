@@ -3,7 +3,7 @@ import Cosmic from 'cosmicjs';
 import { CosmicConfigService } from '../cosmic-config.service';
 @Component({
     selector: 'picture-upload',
-    templateUrl: './picture_upload.html'
+    templateUrl: './picture-upload.component.html'
 })
 export class PictureUploadComponent {
     private fl;
