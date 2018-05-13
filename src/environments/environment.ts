@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  write_key: 'YOURWRITEKEY',
-  bucket_name: 'YOURBUCKETNAME',
+  write_key: 'spqbcTasV1qce4NTk8Uf1JDIiMJoQ2AkfzH0R7SZhEqV0YSnqe',
+  bucket_name: 'gallery-app',
   photos_type: 'photos'
 };
 
