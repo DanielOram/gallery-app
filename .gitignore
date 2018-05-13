@@ -40,4 +40,4 @@ Thumbs.db
 
 
 #ignore dev environment
-/src/environments/environment.ts
+#/src/environments/environment.ts
